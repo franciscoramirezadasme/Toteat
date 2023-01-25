@@ -1,0 +1,73 @@
+	day	zone	waiter	total
+0	2019-01	Salón	Jose Gonzalez	170
+1	2019-03	Salón	Cristian Eiler	148
+2	2019-03	Salón	Jose Gonzalez	147
+3	2019-03	Salón	Jesus Romero	136
+4	2019-01	Salón	Jesus Romero	135
+5	2019-03	Salón	Pedro Vargas	135
+6	2019-01	Salón	Katherine Yañez	132
+7	2019-03	Salón	Diana Arevalo	130
+8	2019-01	Salón	Pedro Vargas	130
+9	2019-03	Salón	Rodrigo Matamala	129
+10	2019-02	Salón	Jesus Romero	127
+11	2019-03	Salón	María José Perez	122
+12	2019-03	Salón	Katherine Yañez	121
+13	2019-02	Salón	María José Perez	120
+14	2019-02	Salón	Diana Arevalo	120
+15	2019-02	Salón	Pedro Vargas	119
+16	2019-01	Salón	Rodrigo Matamala	117
+17	2019-02	Salón	Katherine Yañez	117
+18	2019-01	Salón	María José Perez	116
+19	2019-02	Salón	Jose Gonzalez	113
+20	2019-01	Salón	Diana Arevalo	110
+21	2019-02	Salón	Rodrigo Matamala	110
+22	2019-02	Salón	Cristian Eiler	100
+23	2019-01	Salón	Cristian Eiler	94
+24	2019-01	Terraza	Cristian Eiler	50
+25	2019-03	Terraza	Diana Arevalo	46
+26	2019-01	Terraza	María José Perez	46
+27	2019-01	Terraza	Jose Gonzalez	45
+28	2019-01	Terraza	Rodrigo Matamala	44
+29	2019-03	Terraza	Jesus Romero	44
+30	2019-03	Terraza	Jose Gonzalez	44
+31	2019-03	Terraza	María José Perez	43
+32	2019-02	Terraza	María José Perez	43
+33	2019-02	Terraza	Katherine Yañez	42
+34	2019-02	Terraza	Jesus Romero	41
+35	2019-01	Terraza	Jesus Romero	41
+36	2019-01	Terraza	Diana Arevalo	41
+37	2019-03	Terraza	Rodrigo Matamala	39
+38	2019-03	Terraza	Cristian Eiler	39
+39	2019-01	Terraza	Pedro Vargas	39
+40	2019-02	Terraza	Jose Gonzalez	39
+41	2019-02	Terraza	Cristian Eiler	39
+42	2019-03	Terraza	Katherine Yañez	38
+43	2019-02	Terraza	Pedro Vargas	38
+44	2019-01	Terraza	Katherine Yañez	38
+45	2019-02	Terraza	Diana Arevalo	33
+46	2019-03	Vip	Pedro Vargas	30
+47	2019-03	Terraza	Pedro Vargas	28
+48	2019-01	Vip	Cristian Eiler	26
+49	2019-02	Vip	Rodrigo Matamala	23
+50	2019-02	Vip	Diana Arevalo	22
+51	2019-02	Terraza	Rodrigo Matamala	22
+52	2019-03	Vip	María José Perez	21
+53	2019-01	Vip	Jose Gonzalez	21
+54	2019-01	Vip	Jesus Romero	20
+55	2019-02	Vip	María José Perez	19
+56	2019-03	Vip	Katherine Yañez	19
+57	2019-03	Vip	Jose Gonzalez	18
+58	2019-02	Vip	Katherine Yañez	17
+59	2019-01	Vip	Diana Arevalo	16
+60	2019-02	Vip	Jesus Romero	16
+61	2019-03	Vip	Rodrigo Matamala	15
+62	2019-01	Vip	Rodrigo Matamala	15
+63	2019-03	Vip	Jesus Romero	14
+64	2019-01	Vip	Pedro Vargas	14
+65	2019-01	Vip	María José Perez	13
+66	2019-02	Vip	Pedro Vargas	12
+67	2019-03	Vip	Diana Arevalo	12
+68	2019-03	Vip	Cristian Eiler	11
+69	2019-01	Vip	Katherine Yañez	10
+70	2019-02	Vip	Cristian Eiler	8
+71	2019-02	Vip	Jose Gonzalez	8

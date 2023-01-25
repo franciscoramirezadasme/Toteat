@@ -33,10 +33,6 @@ def run():
     headers_name=["day",'zone','waiter',"total"]
     create_csv_set_columns(df.groupby(['Date_close_format_mont','zone','waiter']).size().sort_values(ascending=False).reset_index(name='count'),"report_waiters_work",headers_name)
 
-    # teams waiter
-    create_csv(df['waiter'].unique(),"report_team_waiters")
-
-
 def get_backup_data_dev():
     """
     The get_backup_data_dev function downloads the backup data from a Google Cloud Storage bucket.
