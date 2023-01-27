@@ -6,16 +6,17 @@
 operaciones de un restaurante y para este caso el dueño no puede obtenr 
 informacion de manera simple.
 
-### Prerequisites
+### Pre requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
+para iniciar el proyecto se debe tener instalado python. ademas de las siguientes 
+librerias para ejecutar la aplicacion.
 
 * python
   ```sh
     python install -r requieriments.txt
   ```
 
-### Instalacion
+### Instalación
 
  para la instalaciones debemos acceder al reposotorio
 
